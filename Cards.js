@@ -20,7 +20,7 @@ class CardUsuario {
             class="octicon octicon-link"></i>&nbsp;${item.site}</a>
         <a class="profile-element profile-website" hrerf=""><i
             class="octicon octicon-location"></i>&nbsp;${item.local}</a>
-        <h2 class="profile-element"><i class="octicon octicon-calendar"></i>Joined ${item.cadastro}</h2>
+        <h2 class="profile-element"><i class="octicon octicon-calendar"></i> Joined ${item.cadastro}</h2>
         <button class="btn btn-search-bar tweet-to-btn">Tweet to ${item.nome}</button>
       </div>      
       `
@@ -89,7 +89,7 @@ class CardTweet {
                   <span class="tweet-time">- ${item.data}</span>
                 </div>
                 <a>
-                  <img class="tweet-card-avatar" src="https://randomuser.me/api/portraits/men/20.jpg" alt="">
+                  <img class="tweet-card-avatar" src=${item.avatar} alt="">
                 </a>
                 <div class="tweet-text">
                   <p class="" lang="es" data-aria-label-part="0">${item.mensagem}
@@ -125,7 +125,7 @@ class cardFollower {
       card += `
       <li class="tweet-card">
       <div class="tweet-content">
-        <img class="tweet-card-avatar" src="https://randomuser.me/api/portraits/men/20.jpg" alt="">
+        <img class="tweet-card-avatar" src=${item.avatar} alt="">
         <div class="tweet-header">
           <span class="fullname">
             <strong>${item.nome}</strong>

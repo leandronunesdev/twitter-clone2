@@ -1,31 +1,34 @@
 {
   "tweets": [
     {
-      "nome": "Fred Gomes",
-      "usuario": "@fred",
-      "data": "Ago 18",
-      "mensagem": "Tweet 1:  Una breve historia sobre un error reportado por la comunidad https://www.mozilla-hispano.org/ #firefox #comunidad",
+      "nome": "Bill Gates",
+      "usuario": "@BillGates",
+      "data": "Mar 4",
+      "mensagem": "Moving to a green economy is the biggest challenge the world has ever faced. I’m optimistic we can do it, but need to make sure it benefits everyone—including those workers and communities who depend on the fossil fuels that we need to get rid of.",
       "comentarios": 20,
       "compartilhamentos": 33,
-      "likes": 10
+      "likes": 10,
+      "avatar": "https://pbs.twimg.com/profile_images/988775660163252226/XpgonN0X_400x400.jpg"
     },
     {
-      "nome": "Bianca Ribeiro",
-      "usuario": "@bi",
-      "data": "Ago 15",
-      "mensagem": "Tweet 2:  Una breve historia sobre un error reportado por la comunidad https://www.mozilla-hispano.org/ #firefox #comunidad",
+      "nome": "Tim Cook",
+      "usuario": "@tim_cook",
+      "data": "Feb 12",
+      "mensagem": "From our Apple family to yours, wishing you a healthy, safe and happy year of the Ox! #LunarNewYear",
       "comentarios": 10,
       "compartilhamentos": 30,
-      "likes": 4
+      "likes": 4,
+      "avatar": "https://pbs.twimg.com/profile_images/1194113737092935681/63O1znGw_400x400.jpg"
     },
     {
-      "nome": "Carlos Lima",
-      "usuario": "@carlos",
+      "nome": "Elon Musk",
+      "usuario": "@elonmusk",
       "data": "Ago 15",
-      "mensagem": "Tweet 3:  Una breve historia sobre un error reportado por la comunidad https://www.mozilla-hispano.org/ #firefox #comunidad",
+      "mensagem": "Play your favorite song in a Tesla & turn the volume to 11. You will see. You will feel #Tesla",
       "comentarios": 11,
       "compartilhamentos": 25,
-      "likes": 2
+      "likes": 2,
+      "avatar": "https://pbs.twimg.com/profile_images/1364491704817098753/V22-Luf7_400x400.jpg"
     }
   ]
 }
