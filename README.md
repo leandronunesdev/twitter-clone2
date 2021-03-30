@@ -23,7 +23,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 $ git clone <https://github.com/leandronunesdev/twitter-clone2.git>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd curriculo-typescript
+$ cd twitter-clone2
 
 # Abra a pasta com o VSCode
 $ code .
