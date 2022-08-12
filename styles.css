@@ -4,7 +4,7 @@ body {
 }
 
 a {
-  color: #1DA1F2;
+  color: #1da1f2;
 }
 
 @media screen and (min-width: 1236px) {
@@ -27,7 +27,8 @@ a {
   font-size: 13px;
 }
 
-.input-search, .btn-search {
+.input-search,
+.btn-search {
   background-color: #f5f8fa;
   border-radius: 21px;
   border: 1px solid #e6ecf0;
@@ -51,16 +52,16 @@ a {
   border-radius: 100px;
   border: 1px solid #1da1f2;
   color: #fff;
-  background-color: #4AB3F4;
+  background-color: #4ab3f4;
   border-color: transparent;
   font-weight: bold;
   font-size: 14px;
 }
 
-.btn-search-bar:hover{
-      background-color: #1DA1F2;
-    border-color: #1DA1F2;
-  cursor:pointer;
+.btn-search-bar:hover {
+  background-color: #1da1f2;
+  border-color: #1da1f2;
+  cursor: pointer;
 }
 
 .navbar-form {
@@ -74,7 +75,7 @@ a {
 
 .profile-background {
   height: 320px;
-  background-image: url('https://media-exp1.licdn.com/dms/image/C4D16AQH1PJQ5ZstoLg/profile-displaybackgroundimage-shrink_350_1400/0/1615850191959?e=1622678400&v=beta&t=EHe_LadMaEcugKA88JDDWLsysYU6j4PPsaMeldbPZ2w');
+  background-image: url('https://pbs.twimg.com/profile_banners/14058455/1583487329/1500x500');
 }
 
 /* Main avatar */
@@ -82,7 +83,7 @@ a {
   bottom: -87px;
   left: 10px;
   position: absolute;
-  transition: bottom .3s;
+  transition: bottom 0.3s;
   z-index: 3;
 }
 
@@ -129,7 +130,7 @@ a {
 .profile-stats-item-active {
   border-bottom-style: solid;
   border-bottom-width: 2px;
-  border-color: #1DA1F2 !important;
+  border-color: #1da1f2 !important;
 }
 
 .profile-stats-item-label {
@@ -164,7 +165,7 @@ a {
 }
 
 .profile-website {
-  color: #1DA1F2 !important;
+  color: #1da1f2 !important;
   cursor: pointer;
 }
 
@@ -175,7 +176,7 @@ a {
 .tweet-to-btn {
   margin-top: 16px;
   margin-bottom: 16px;
-  width:100%;
+  width: 100%;
 }
 /* END: Left column*/
 
@@ -195,7 +196,6 @@ a {
   padding: 9px 12px;
 }
 
-
 .tweet-content {
   margin-left: 58px;
   font-size: 14px;
@@ -214,7 +214,8 @@ a {
 .tweet-footer-btn {
   margin-right: 30px;
 }
-.tweet-footer-btn i, .tweet-footer-btn span {
+.tweet-footer-btn i,
+.tweet-footer-btn span {
   color: #657786;
   font-size: 16px;
 }
@@ -253,8 +254,8 @@ a {
 }
 
 .btn-follow {
-  border-color: #1DA1F2;
-  color: #1DA1F2;
+  border-color: #1da1f2;
+  color: #1da1f2;
   background-color: #fff;
   border: 1px solid #1da1f2;
   display: block;
@@ -270,7 +271,7 @@ a {
 }
 
 .btn-follow:hover {
-  background-color: #E8F5FD;
+  background-color: #e8f5fd;
 }
 /* END: Right column*/
 

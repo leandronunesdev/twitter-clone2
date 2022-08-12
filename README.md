@@ -1,5 +1,6 @@
 # Twitter Clone
-## Projeto de Twitter Clone usando Classes ES6.
+
+## Twitter Clone project using ES6 Classes.
 
 <p align="center">
  <a href="#pre-requisitos">Pré-requisitos</a> •
@@ -7,51 +8,60 @@
  <a href="#autor">Autor</a>
 </p>
 
+<p align="center">
+ <a href="#requirements">Requirements</a> •
+ <a href="#technologies">Technologies</a> • 
+ <a href="#author">Author</a>
+</p>
+
 <h4 align="center"> 
-	Projeto Finalizado ✅
+	Finished project ✅
 </h4>
 
-<h1 id="pre-requisitos">Pré-requisitos</h1>
+<h1 id="requirements">Requirements</h1>
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [VSCode](https://code.visualstudio.com/), [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+Before starting, you need to install in your machines the following tools:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Besides that, is good to have a good code editor as [VSCode](https://code.visualstudio.com/) and the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲 Running the App
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone <https://github.com/leandronunesdev/twitter-clone2.git>
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access the project folder using terminal/cmd
 $ cd twitter-clone2
 
-# Abra a pasta com o VSCode
+# Open the folder with VSCode using the command:
 $ code .
 
-# Execute a aplicação em modo de desenvolvimento
-$ Botão direito em index.html => Open with Live Server
+# Execute the application on development mode
+$ Right button click on index.html => Open with Live Server
 
-# O servidor inciará no navegador padrão
+# The app will start on the default browser
 ```
 
-<h1 id="tecnologias">🛠 Tecnologias</h1>
+<h1 id="technologies">🛠 Technologies</h1>
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used on this project:
 
 - [JavaScript Classes ES6](https://www.javascript.com/)
 - [VSCode](https://code.visualstudio.com/)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-<h1 id="autor">🛠 Autor</h1>
+<h1 id="author">🛠 Author</h1>
 
 <a href="https://github.com/leandronunesdev">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/60386045?s=460&u=b81d71f87ddbf5a2da61abf86227ede788de7d32&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Leandro Nunes</b></sub></a> <a href="https://github.com/leandronunesdev" title="Leandro">🚀</a>
 
+Made with ❤️ by Leandro Nunes
 
-Feito com ❤️ por Leandro Nunes 👋🏽 Entre em contato!
+👋🏽 Reach out!
 
+<a href="https://leandronunes.dev/">Website<a> |
+<a href="https://www.linkedin.com/in/nunesprofissional/">Linkedin<a> |
+<a href="mailto:https://www.linkedin.com/in/nunesprofissional/">E-mail<a> |
 <a href="https://twitter.com/leandro_nunes">Twitter<a>
-<a href="https://www.linkedin.com/in/nunesprofissional/">Linkedin<a>
-<a href="mailto:https://www.linkedin.com/in/nunesprofissional/">E-mail<a>
